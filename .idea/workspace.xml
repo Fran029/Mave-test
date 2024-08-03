@@ -4,35 +4,140 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87165e60-b7f5-4c5f-8d9a-0e5de05db3d3" name="Changes" comment="" />
+    <list default="true" id="87165e60-b7f5-4c5f-8d9a-0e5de05db3d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/entity/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/entity/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/praxis/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cl/praxis/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/praxis/entity/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cl/praxis/entity/CalculadoraTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2hZeRTin8DZR5siHJWbk8ATvoik" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CalculadoraTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculadoraTest.testDivisio.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServiciosPersonaTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ServiciosPersonaTest.testEliminarPersona.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.MavenProject [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cl.praxis.entity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculadoraTest">
+    <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.praxis.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.praxis.entity" />
+      <option name="MAIN_CLASS_NAME" value="cl.praxis.entity.CalculadoraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.testDivisio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.praxis.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.praxis.entity" />
+      <option name="MAIN_CLASS_NAME" value="cl.praxis.entity.CalculadoraTest" />
+      <option name="METHOD_NAME" value="testDivisio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiciosPersonaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gs.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gs.testing" />
+      <option name="MAIN_CLASS_NAME" value="gs.testing.ServiciosPersonaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiciosPersonaTest.testEliminarPersona" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gs.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gs.testing" />
+      <option name="MAIN_CLASS_NAME" value="gs.testing.ServiciosPersonaTest" />
+      <option name="METHOD_NAME" value="testEliminarPersona" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiciosPersonaTest.testEliminarPersona" />
+        <item itemvalue="JUnit.ServiciosPersonaTest" />
+        <item itemvalue="JUnit.CalculadoraTest.testDivisio" />
+        <item itemvalue="JUnit.CalculadoraTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,11 +153,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717806021382</updated>
-      <workItem from="1717806022554" duration="8000" />
+      <workItem from="1717806022554" duration="3796000" />
+      <workItem from="1718065256572" duration="11827000" />
+      <workItem from="1718152461630" duration="1385000" />
+      <workItem from="1718323017039" duration="53000" />
+      <workItem from="1718323101104" duration="2592000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
