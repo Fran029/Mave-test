@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87165e60-b7f5-4c5f-8d9a-0e5de05db3d3" name="Changes" comment="">
+    <list default="true" id="87165e60-b7f5-4c5f-8d9a-0e5de05db3d3" name="Changes" comment="lo faltante">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/entity/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/entity/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cl/praxis/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cl/praxis/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cl/praxis/entity/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cl/praxis/entity/CalculadoraTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +154,18 @@
       <workItem from="1718152461630" duration="1385000" />
       <workItem from="1718323017039" duration="53000" />
       <workItem from="1718323101104" duration="2592000" />
+      <workItem from="1722653665672" duration="536000" />
+      <workItem from="1722654251904" duration="126000" />
     </task>
+    <task id="LOCAL-00001" summary="lo faltante">
+      <option name="closed" value="true" />
+      <created>1722653792274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722653792274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lo faltante" />
+    <option name="LAST_COMMIT_MESSAGE" value="lo faltante" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
